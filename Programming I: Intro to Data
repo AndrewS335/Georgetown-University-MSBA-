@@ -1,0 +1,238 @@
+Page 1
+Programming I: Introduction to Data
+Classes: Thursdays, August 29 – October 3
+Semester/Year Fall 2024/Mod 1
+Professor Babak Zafari
+E-mail babak.zafari@georgetown.edu
+TA: Sheeba Moghal (sm3924@georgetown.edu)
+Schedule Section 1 (HOYA): Tuesdays, 6:00pm to 7:20pm ET
+Section 2 (SAXA): Tuesdays, 8:00pm to 9:20pm ET
+Office Hours Dr. Zafari: Thursdays, 4:00 to 5:00 PM ET or by appointment
+Sheeba Moghal (TA): Saturdays, 1 to 2:30 PM ET
+Sheeba Moghal (TA): Mondays, 4 to 5:30 PM ET
+Course Webpage Canvas
+Live Sessions (Thursdays)
+August 29 - September 5 - September 12 - September 19 - September 26 - October 3
+Course Description
+This course teaches students how to implement business analytics in R. This course covers
+programming skills that will allow students to read in and organize data, present visually appealing
+summaries of the data and to analyze it.
+Course Objectives
+● Program in R, including data structures, loops and creation of functions.
+● Read in, organize, and get to know the data
+● Visualize data in a useful way.
+● Implement linear regression models
+Course Materials
+There is no required textbook for this course. All required materials, including slides for all lectures,
+data files, or links to other resources will be posted on Canvas.
+Software: You will be using R and RStudio in this course.
+Course format and preparation for class: You are required to review the class recordings and
+read assigned materials before every live session. Live class sessions will consist of concepts, and
+practice work using. To be “active learners” and derive the most benefit from class discussions, please
+make sure to follow all assigned materials before every class. During live class sessions, please
+contribute to discussions and participate in hands-on work to familiarize yourself with the techniques
+and tools we study.
+Page 2
+Canvas Website: There is a website for the course in Canvas containing required course content,
+including videos and interactive media, and other resources. Announcements, handouts, and
+additional resources will be posted. Please visit the site frequently and check for new course
+announcements and postings. It is your responsibility to keep up with all announcements made on the
+course website and take the appropriate actions.
+Schedule
+Pre-Course Work: 1. You should have RStudio set up on your computer as part of the course
+requirements for OPAN 6601 - Statistics Business Analytics.
+Live Session Topic
+Week 1 Thursday / Aug 29
+1. Get set up in R and RStudio.
+2. Load data
+3. Three major data types: numeric, logical, and string
+4. Four data structures: vectors, matrices, data frames, and lists
+5. Descriptive statistics
+Week 2 Thursday / Sep 5
+1. Lists in R
+2. Loops in R
+3. If Statement
+4. Functions
+5. Combine loops and functions
+Week 3 Thursday / Sep 12
+1. Overview
+2. The tidyverse package
+3. The dplyr package
+4. Piping functions in R
+5. Join functions in R
+Week 4 Thursday / Sep 19
+1. Components of visualization
+2. Base R for viz
+3. ggplot2
+4. Applications
+Week 5 Thursday / Sep 26
+1. Getting to know the dataset
+2. Summarizing categorical data
+3. Summarizing numerical data
+4. Multivariate Analysis and Outlier detection
+5. Hypothesis test
+Week 6 Thursday / Oct 3
+1. Simple linear regression
+2. Understanding regression output and fit measures
+3. Making predictions
+4. Categorical predictors
+5. Multiple regression
+NOTE: All deliverable deadlines are adjusted on Canvas to 3 AM ET the following
+day the deadlines noted below:
+Final exam period: Exam could be taken from October 11th to October 13 th
+Final project period: October 4 th to October 18 th
+Details on final exam and the project will be released on Canvas.
+Page 3
+Adhering to Policies: For the course to be effective and run smoothly, it is essential that you and I
+strictly follow these course policies. Therefore, please read them carefully and contact me if you have
+any questions or concerns. By taking this course you are agreeing to follow these policies. I will treat
+these policies as a contract and to be fair to everyone, will not grant any exceptions.
+Grading Policy: The final grade will be on the following assignments (Check the last page for
+details):
+• Assignments (individual) 40%
+• Quizzes (individual) 15%
+• Final Quiz (individual) 20%
+• Final Project (learning group) 25%
+Grades and Feedback on Assignments: Grades and feedbacks will be posted on Canvas.
+Adhering to Policies: For the course to be effective and run smoothly, it is essential that you and I
+strictly follow these course policies. Therefore, please read them carefully and contact me if you have
+any questions or concerns. By taking this course you are agreeing to follow these policies. I will treat
+these policies as a contract and to be fair to everyone, will not grant any exceptions.
+Policy on Grade Appeals: If you believe you have found a grading error in the assignments
+(unfortunately, they occasionally do happen), please provide a written review request within 1 week of the original
+grade being distributed. All assignment grades are considered final after the 1-week review period.
+Attendance: Please come to class well prepared having read the assigned material and done the
+necessary analysis on the appropriate days. Empirical evidence shows that poor performance is
+strongly correlated with poor class attendance. Therefore, I strongly encourage you to attend all live
+classes. Please plan your travel and other activities around course deadlines. If you miss any class, it is
+your responsibility to let the instructor know and cover the missed class material on your own. Make
+sure you borrow a classmate’s notes.
+Assistance: It is your responsibility to keep up and utilize all help and resources available to you. If
+you find that you are falling behind or you feel that the course is difficult, do not hesitate to seek help.
+Come to my office hours and ask questions during class. If you cannot meet during the office hours,
+make an appointment for a mutually convenient time.
+Live Session Classroom Etiquette, Ethics, and Georgetown University Honor Code: I expect
+from you the same level of professionalism, both in your approach to work and in the “products” you
+deliver, as your boss will. We expect all students to be live with their videos switched on, so the
+instructors speak with you instead of a blank canvas. Your effort to log-in on-time, not to chat, and
+not to engage in extraneous activities during class will be greatly appreciated.
+You are expected to be familiar with the Georgetown University Honor System and the Honor code
+and are bound by requirements. As a faculty member, I am also obligated to report any suspicion
+related to violations of the Georgetown Honor System. For more details, please see
+http://honorcouncil.georgetown.edu/. Cheating and plagiarism will not be tolerated. In order to
+communicate expectations regarding group work vs. individual work, each assignment will be
+designated a type. Please consult the community standards document, which will indicate the
+guidelines for each assignment. Please ask me if you have any questions about this.
+Page 4
+Students agree that by taking this course, the written project reports may be subject to submission to
+SafeAssign for the detection of plagiarism. SafeAssign compares the report with a huge pool of student
+papers and reports from Georgetown and a host of other institutions. All submissions may be added
+as source documents in the SafeAssign reference database solely for the purpose of detecting
+plagiarism of such papers in the future.
+Finally, the syllabus cannot identify all possible solutions which represent honor code violations and
+is not meant to be comprehensive in this regard. Students are expected to abide by the intent and the
+letter of the honor code and are required to report any honor code violations that are observed.For policies on all individual work, refer to the University and Academic Resources section
+of the MSBA Program page.
+For group assignments (project deliverables), we will follow rules for collaboration from the
+Student Policies Document. For all deliverables, I restate the items below:
+● Permitted with designated group, and expected that group members work together to
+complete the assignment
+● Group submits one project/assignment
+● Group members receive the same grade (except the peer-evaluation part which is based on
+the feedback received by team members or adjusted based on professor’s review of the team’s
+feedbacks)
+Time Expectations: Our online classes are designed to meet the same academic standards as our
+place-based (face-to-face) courses. You can think of each module equal to the same level of
+participation, commitment, and academic rigor as a face-to-face class. Students should plan on
+spending approximately 8-10 hours per week on the work for each online module.
+Max Mean Grade Policy: The course follows McDonough’s graduate school policy of the maximum
+mean Grade Point Average (GPA) of 3.5.
+Instructional Continuity: Please see Instructional Continuity section of the MSBA Student Syllabus
+Policies document. Deadlines for cases and homework submissions will not be affected by the
+university closure, unless otherwise notified.
+Academic Accommodations: Please see Academic Accommodations section of the MSBA Student
+Syllabus Policies document.
+Religious Observances: Please see Religious Observances section of the MSBA Student Syllabus
+Policies document.
+Copyright of Course Materials: Please see Copyright of Course Materials section of the MSBA
+Student Syllabus Policies document.
+Netiquette Guidelines
+To promote the highest degree of education possible, we ask each student to respect the opinions and
+thoughts of other students and be courteous in the way that you choose to express yourself. Students
+should be respectful and considerate of all opinions.
+Page 5
+In order for us to have meaningful discussions, we must try to genuinely understand what others are
+saying and be open-minded about others’ opinions. If you want to persuade someone to see things
+differently, it is much more effective to do so in a polite, non-threatening way rather than to do so
+antagonistically. Everyone has insights to offer based on his/her experiences, and we can all learn
+from each other. Civility is essential.
+Office of the Student Ombuds (OSO) - Confidential | Independent | Impartial | Informal
+Students should consider contacting the Student Ombuds when they want to talk to someone about
+a university-related issue but don't know where to turn. The OSO is a confidential resource for
+undergraduate and graduate students. It’s a safe setting for students to talk candidly about any
+University-related issues or concerns they may have. Some reasons for students to visit the office may
+be to address academic concerns, clarify administrative policies, discuss interpersonal conflicts, seek
+coaching to handle a sensitive situation, seek resources if they're experiencing harassment, bullying or
+other forms of intimidation, or if they want a place to safely express their frustration or concern.
+Make an appointment with the Student Ombuds by writing studentombuds@georgetown.edu or
+calling 202-784-1081. The OSO is located in Room 207 of the Reiss Building (across from Arrupe
+Hall). More information is at studentombuds.georgetown.edu.
+PROCTORIO
+Proctorio is an online proctoring solution integrated in Canvas quizzes that offers identity verification,
+test monitoring, and a number of other features to ensure academic integrity. Throughout an exam,
+Proctorio will record the testing environment, and depending on the settings of the exam you may
+need to provide a scan of the room. Therefore, you should select private spaces for the exam session
+where disruptions are unlikely and where recording devices can be enabled. At the end of the exam,
+Proctorio generates an automated report for the instructor that flags any suspicious behavior, such as
+opening up new tabs on browsers, talking to others in the room, and looking away from the screen
+for too long.
+To use Proctorio students are required to:
+• Use a computer with a functioning webcam and microphone (no tablet computers or mobile
+devices)
+• Use the Google Chrome browser or Microsoft Edge browser
+• Install the Proctorio extension to the Google Chrome browser (students will complete this
+during a practice test)
+• Have a reliable internet connection
+• Use a quiet private location
+• Have a GU photo ID ready to show (if the instructor requires it)
+You will take a practice quiz using Proctorio to test your systems and help prepare for an actual
+test. 24/7 support is available for students by visiting Proctorio Support. See also Proctorio's How to
+Get Started page.
+Please note: If you have challenges finding a computer that meets the technical requirements above,
+and/or concerns using an online proctoring tool, please contact your instructor who will work with
+you to find an equivalent alternative.
+Page 6
+COURSE DELIVERABLESNOTE: All deliverable deadlines are adjusted on Canvas to 3 AM ET the following day the
+deadlines noted below:
+Assignments: 40%
+There are four assignments for this course. Three of these assignments are a series of problem sets
+designed to help you build skill in R. In each lab, you will analyze a given data set, interpret the results,
+and answer several questions. The deadline for these assignments are posted on Canvas. They are
+graded on effort and completion. In addition, there is a discussion assignment posted on
+Canvas. Please allow a week for submission feedback.
+Quizzes: 15%
+There will be a total of six short quizzes for each module. These quizzes are mix of multiple choice
+and short answer questions. Each week’s quiz will be released after the live session and will be due the
+following Sunday at midnight. In addition, there might be one or two discussion assignments posted
+on Canvas.
+Comprehension Checks: 0%
+Each week has its own comprehension check. These are designed to reinforce the learning goals of
+that week. The questions are not graded, and the solution will be provided right after submitting the
+answers.
+Final Quiz: 20%
+There will be a final quiz at the end of the semester. This quiz is comprehensive and will have a similar
+format to the weekly quizzes. This quiz will be moderated using Proctorio.
+Final Project: 25%
+Your final project is a
+shared project between two courses: this course and OPAN 6601 – Statistics
+for Business Analytics. In the Final Project, you will apply the concepts, tools and techniques we study
+throughout this course and statistics and data analysis techniques learned in OPAN 6601. This will be
+group project based on pre-assigned study teams. The feedback of your group members about your
+performance in the team accounts for 20% of your grade for this project. The rest of the grade will
+be equally shared across the two courses, where each faculty will grade you for their tested discipline
+accordingly. The full project details will be posted on Canvas as a separate document.
+Time Expectations:
+Our online classes are designed to meet the same academic standards as our place-based (face-to-face)
+courses. You can think of each module equal to the same level of participation, commitment, and
+academic rigor as a face-to-face class. Students should plan on spending approximately 8-10 hours per
+week on the work for each online module.
