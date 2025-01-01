@@ -1,0 +1,64 @@
+This projects is worth 30% of your final course grade. You can work individually or in groups of two. If you plan to work in groups, sign up to a group here under assignment 2 groups. 
+
+Your assignment is to analyze the dataset contained in Employee_Data_Project.xlsx Download Employee_Data_Project.xlsxand answer the specific questions. 
+
+ 
+
+Background
+A large company named Canterra, employs, at any given point of time, around 4000 employees. However, every year, around 15% of its employees leave the company and need to be replaced with the talent pool available in the job market. The management believes that this level of attrition (employees leaving, either on their own or because they got fired) is bad for the company, because of the following reasons:
+
+The former employees’ projects get delayed, which makes it difficult to meet timelines, resulting in a reputation loss among consumers and partners
+A sizable department has to be maintained, for the purposes of recruiting new talent
+More often than not, the new employees have to be trained for the job and/or given time to acclimatize themselves to the company
+The management hypothesizes that higher job satisfaction and a higher number of total working years will reduce employee attrition. Additionally, the marketing management was interested to know if demographic variables such as gender, education and age affect employee attrition. Hence, the management has contracted you as a consultant to understand whether these two factors they should focus on, in order to curb attrition. In other words, they want to know if changes in their internal and external recruitment strategies would help retain employees.
+
+There are 18 variables (columns) and 4410 employees as described on the Canterra Employee Dataset – Projects page in the Getting Started section.
+
+Project 2 Goal and Key Questions
+Goal
+You are required to model the probability of attrition and draw insights from your analysis. 
+
+Key Questions
+
+ 
+
+Logistic Regression Rationale
+Explain why logistic regression is an appropriate modeling technique for predicting employee attrition in this dataset compared to classical regression methods. 
+Provide a specific rationale for utilizing logistic regression in predicting attrition concerning the age of employees. 
+Model Parameter Interpretation
+Fit a logistic regression model
+Summary of the model
+After conducting the logistic regression analysis, interpret the parameter estimates obtained from the model with a focus on their significance in predicting employee attrition. 
+Distribution Estimates
+ Describe the concept of a marginal distribution and explain its relevance in understanding employee attrition.  Calculate and report the estimated marginal distribution of attrition (Attrition: Yes/No) without the influence of the logistic regression model.
+ For modeling purposes, choose an age value representing a "younger" employee and another age value for an "older" employee. Calculate and report the model-based estimates of the conditional distribution of attrition for these two age groups. 
+Graphical Representation
+ Create a graph illustrating the relationship between age and attrition using the logistic regression model. Include appropriate labels and explanations. (10 points)
+ Create a table summarizing the key statistics of the age variable in relation to attrition and discuss any insights from the table. 
+Model Comparison - Choose four variables from the list provided (e.g., `Age`, `Gender`, `JobSatisfaction`, `Income`) and use them to create logistic regression models with the following combinations:
+Model 1: A one-variable model with `Age`.
+Model 2: A two-variable model with `Age` and `Gender`
+Model 3: A three-variable model with `Age`, `Gender`, and `JobSatisfaction`.
+Model 4: An interaction model involving `Age`, `Gender`, `JobSatisfaction`, `Income`, and `Gender:Income`. 
+Compare the validation-set performance of these models using the following metrics: AIC, AUC, Precision & Recall (use p = 0.5 as cutoff). Include tables summarizing the results. 
+ Create a graph to visually represent the comparison of the models based on the selected metrics. 
+Predictive Performance - Using the logistic regression models that you have developed, perform a prediction analysis for employee attrition. 
+For each of the four models, calculate the predicted probabilities of employee attrition for the test dataset.
+Calculate predicted probabilities for each model using the test dataset
+Create ROC curve objects for each model
+Create ROC curves for each model to evaluate their discriminatory power in predicting attrition.
+Plot ROC curves for all four models on one plot
+Compare the ROC curves and AUC. Discuss which model appears to be the most effective in distinguishing between employees with and without attrition.
+Recommendations and Reflection
+ Summarize the key findings from the analysis, including insights gained from the EDA, model building, and model comparison. Include tables or visualizations to support your summary. 
+ Provide recommendations to Canterra based on the analysis. Suggest strategies to reduce attrition rates and improve employee retention. 
+Deliverable
+Submit a professional report in a PDF document. Include direct explanations for each question in the document. Include your code in another appendix. 
+
+Your formal project report should clearly answer the questions and show the results of the analysis as requested. We will grade your report on the clarity of the answers and comprehension, depth of analysis, and completeness of the answers.
+
+To summarize:
+
+Submit a professional report in pdf. 
+You must support your answers with evidence.
+Your report should be carefully organized, clearly and concisely written, and must answer all questions.
