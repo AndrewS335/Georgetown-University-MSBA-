@@ -1,0 +1,52 @@
+Project 3 is due the end of the day on December 16 (technically December 17, 2:59 am ET to accommodate the US west coast). It will be graded according to the MSBA Final Project and Presentation Rubric. This project is worth 35% of your final course grade (10% for the report and 10% for the team presentation).
+
+Your assignment is to analyze the dataset contained in Employee_Data_Project.xlsx Download Employee_Data_Project.xlsxand deliver a report, uploading all project files, as described below. In your report, be sure to support your responses.
+
+Background
+In Individual Project 2, you worked as a consultant for a large company named Canterra. You are now working on a second phase of the analysis project, and you will work with your team on this effort. Recall the following:
+
+At any given point in time, Canterra has around 4000 employees. However, every year, around 15% of its employees leave the company and need to be replaced with the talent pool available in the job market. The management believes that this level of attrition (employees leaving, either on their own or because they got fired) is bad for the company, because of the following reasons –
+
+The former employees’ projects get delayed, which makes it difficult to meet timelines, resulting in a reputation loss among consumers and partners
+A sizable department has to be maintained, for the purposes of recruiting new talent
+More often than not, the new employees have to be trained for the job and/or given time to acclimatize themselves to the company
+Hence, the management has contracted your consulting firm to understand what factors they should focus on, in order to curb attrition. In other words, they want to know what changes they should make to their workplace, in order to get most of their employees to stay. Since your team is one of the star business analytics teams at the firm, this project has been given to you.
+
+There are 18 variables (columns) and 4410 employees as described on the Canterra Employee Dataset – Projects page in the Getting Started section.
+
+Team Project 3 Goal and Key Questions
+Goal
+You are required to model the probability of attrition. The results thus obtained will be used by the management to understand what changes they should make to their workplace, in order to get most of their employees to stay. 
+
+Key Questions
+
+Please answer the following questions based on the analysis of your data.
+
+LOGISTIC REGRESSION: What factors lead to employee attrition within the company? Use Logistic Regression to determine the model fit. What are the variables based on the logistic regression model that are most important (affecting attrition) for the management to address right away to curb attrition? (15 points).  
+DECISION TREES: What factors lead to employee attrition within the company? Use Decision Trees to determine the response. What are the  variables based on the Decision Tree model that are most important (affecting attrition) for the management to address right away to curb attrition? (30 points)
+EXTENDING DECISION TREES: Use Bagging and Random Forest methods to determine employee attrition. What variables are most important (affecting attrition) for the management to address right away to curb attrition? (30 points)
+Amongst logistic regression, decision trees, Bagging and Random Forest which one will you use to present your results to the clients? Why?  (10 points)
+Provide your final recommendations to the management team based on your analysis. (15 points)
+For each model:
+
+Report AUCs from your test set.
+ Interpret the model's outputs in the business context.
+Use data and your selected model to provide evidence for any recommendation you make. 
+Deliverable
+Submit a professional report in a Word or PDF document. Imagine that you are a team of consultants submitting the report to your client (Canterra). Write the names of your team members clearly on the cover page. 
+
+Your formal project report should clearly define the problem statement, your approach, the results of the analysis you have performed, and the managerial insights you have gained by performing this analysis. It should be professional and include an executive summary. The report (including the main body and citations) should be no longer than 12 pages pages plus up to 15 pages of the appendix with supporting exhibits.
+
+The main body of the report should be written for a business stakeholder. Begin with an executive summary of findings and format the report to support and caveat your main claims with evidence. Provide a brief description of the modeling process, accuracy of the models, and their interpretation in the business context. The appendix should be written for a technical reviewer to understand the technical details of your modeling process. 
+
+The supporting exhibit can contain images, tables, and prose. The entire report should be written in 12 pt. font with single spacing.  The report will be graded on the clarity of the problem statement, depth of analysis, quality of recommendations, and quality of writing. Only one submission per team through Canvas is sufficient.
+
+Your team will collaborate to record a video presentation up to 8 minutes in length in Zoom.  The presentation is graded separately for 50 Points. Your presentation should be well organized and address all the key research questions and findings in your report. Each team member will present a portion of the report. It is up to the team to divide the presentation among its members.
+
+To summarize:
+
+Select one member of your team to submit all project materials.
+Submit a professional report in a Word file nor PDF of no more than 12 pages plus up to 15 pages of the appendix (12pt font, single spaced). 
+You must support your answers with evidence. Include supporting materials that you would like to present in an appendix (up to 15 pages).
+Add a cover page that includes the name of the deliverable and the names of your team members.
+Your report should be carefully organized, clearly and concisely written, and must answer all questions.
